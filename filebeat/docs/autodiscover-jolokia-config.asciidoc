@@ -21,3 +21,5 @@ filebeat.autodiscover:
 
 This configuration starts a jolokia module that collects logs of kafka if it is
 running. Discovery probes are sent using the local interface.
+
+Test
